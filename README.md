@@ -1,4 +1,4 @@
-# Inspiring Curiousity
+# Inspiring Curiosity
 
 We are developing a pilot program at the Adler Planetarium called ‘Touch the Universe’. Our project will utilize 3D printed astrophysical objects in combination with visualizations to provide museum guests with a new way of exploring space and science concepts. It will also benefit our guests with visual impairment and those that are primarily tactile learners, providing a pathway for deeper understanding of astrophysical concepts that are often only presented visually within the planetarium experience.  
 
@@ -19,4 +19,4 @@ We are only just starting our 'Touch the Universe' journey. Check back on our Gi
 
 # Acknowledgements
 
-This project has been made possible by an award to the Adler Planetarium from the Association of Science-Technology Centers (ASTC) on behalf of NASA's Universe of Learning (UoL).
+This project has been made possible by an [award][http://www.astc.org/astc-news/congratulating-nasas-universe-of-learning-mini-fund-recipients/] to the [Adler Planetarium][https://www.adlerplanetarium.org/#wUjDlx4DEz33h1tR.97] from the [Association of Science-Technology Centers][http://www.astc.org/about-astc/] (ASTC) on behalf of NASA's [Universe of Learning][https://www.universe-of-learning.org/] (UoL).
