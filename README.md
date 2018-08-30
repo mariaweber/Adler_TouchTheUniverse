@@ -19,4 +19,4 @@ We are only just starting our 'Touch the Universe' journey. Check back on our Gi
 
 # Acknowledgements
 
-This project has been made possible by an [award][http://www.astc.org/astc-news/congratulating-nasas-universe-of-learning-mini-fund-recipients/] to the [Adler Planetarium][https://www.adlerplanetarium.org/#wUjDlx4DEz33h1tR.97] from the [Association of Science-Technology Centers][http://www.astc.org/about-astc/] (ASTC) on behalf of NASA's [Universe of Learning][https://www.universe-of-learning.org/] (UoL).
+This project has been made possible by an [award](http://www.astc.org/astc-news/congratulating-nasas-universe-of-learning-mini-fund-recipients/) to the [Adler Planetarium](https://www.adlerplanetarium.org/#wUjDlx4DEz33h1tR.97) from the [Association of Science-Technology Centers](http://www.astc.org/about-astc/) (ASTC) on behalf of NASA's [Universe of Learning](https://www.universe-of-learning.org/) (UoL).
