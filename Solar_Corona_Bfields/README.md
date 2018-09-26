@@ -8,3 +8,4 @@ CREDIT: Predictive Science Inc
 # What's in this repository?
 
 Animation of the predicted solar corona during the August 21, 2017 total solar eclipse: tricol_Full_log10qavg_101_rot.mov
+CREDIT: Predicitive Science Inc
