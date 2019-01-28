@@ -16,10 +16,11 @@ The asteriod Bennu is special because it was selected as the target for the [OSI
 
 ['Oumuamua](https://www.nasa.gov/feature/jpl/nasa-learns-more-about-interstellar-visitor-oumuamua) is an asteroid and the first known interstellar object to enter our solar system. It was first detected in 2017 by a telescope called Pan-STARRS located on Maui, Hawaii. The name is derived from the Hawaiian word meaning 'scout'. 'Oumuamua's excess speed and path through the solar system indicate that it cannot be captured by the Sun's gravity, and so must have originated from outside our solar system. This asteroid also has a very unusual shape, approximately 5 to 10 times longer than it is wide. It tumbles through space, at times end-over-end. As a result, its observed diameter changes over time due to this tumbling motion. Its greatest observed length was reported to be over 400 meters (1,300 ft). 
 
-# Ultima Thule
+# 2014 MU<sub>69</sub> a.k.a. Ultima Thule
 
+2014 MU<sub>69</sub> is located in the Kuiper Belt. Sometimes referred to as trans-Neptunian objects, bodies in the Kuiper Belt can be found beyond the orbit of Neptune. It has been nicknamed Ultima Thule, which has both Latin and Greek origins. Its name references medieval literature, where [Ultima Thule represented places beyond known borders](https://en.wikipedia.org/wiki/Thule). 
 
-
+On January 1, 2019, the NASA spacecraft [New Horizons](https://www.nasa.gov/mission_pages/newhorizons/main/index.html) flew by MU<sub>69</sub> and took the best images of this object to date. It is a contact binary asteriod approximately 20 miles in diameter. Both lobes are spheroidal in shape, with the larger approximately 12 miles in diameter and the smaller about 8 miles in diameter. Both lobes have multiple indentations or pits, possibly caused by impacts or the venting of internal material. It is hypothesized that MU<sub>69</sub> was formed as the two lobes slowly spiraled closer and closer together until they touched and ultimately fused.         
 
 # The Aquarius Project
 
@@ -35,6 +36,18 @@ Explore an interactive version of the Aquarius Project asteroid's journey to Ear
 Learn many more facts about asteroids from NASA [here](https://solarsystem.nasa.gov/small-bodies/asteroids/in-depth/) and [here](https://www.nasa.gov/mission_pages/asteroids/overview/fastfacts.html).
 
 # What's in this repository?
+
+Bennu 3D model: 
+CREDIT: 
+NOTES: 
+
+'Oumuamua 3D model:
+CREDIT:
+NOTES:
+
+2014 MU<sub>69</sub> 3D model:
+CREDIT:
+NOTES:
 
 Visualization of the Aquarius Project asteroid orbit: Aquarius_project_orbit.mp4 <br/>
 CREDIT: Maria Weber, Aaron Geller, Mark Hammergren
