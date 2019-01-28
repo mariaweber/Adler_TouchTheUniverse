@@ -37,13 +37,22 @@ Learn many more facts about asteroids from NASA [here](https://solarsystem.nasa.
 
 # What's in this repository?
 
+Bennu visualization: arrival-bennu-full-rotation.gif <br/>
+CREDIT: NASA Goddard Space Flight Center/University of Arizona - [https://solarsystem.nasa.gov/resources/2210/asteroid-benn-full-rotation-50-miles/?category=small-bodies_asteroids](https://solarsystem.nasa.gov/resources/2210/asteroid-benn-full-rotation-50-miles/?category=small-bodies_asteroids)
+
 Bennu 3D model: bennu.stl <br/>
 CREDIT: Found on Thingiverse, created by Knu - [https://www.thingiverse.com/thing:3263492](https://www.thingiverse.com/thing:3263492) <br/>
 NOTES: We loaded this stl file into MakerBot Print and had to drastically increase its scale before printing.
 
+'Oumuamua orbit visualization: heic1813d.m4v  
+CREDIT: ESO, M. Kornmesser, L. Calcada. - [https://www.spacetelescope.org/videos/heic1813d/](https://www.spacetelescope.org/videos/heic1813d/)
+
 'Oumuamua 3D model: Omuamua3.stl <br/>
 CREDIT: Found on Thingiverse, created by orion928 - [https://www.thingiverse.com/thing:2695520](https://www.thingiverse.com/thing:2695520) <br/>
 NOTES: The original aspect ratio of the length to width of this object is 5:1. We changed the aspect ratio when printing it out to 10:1 in the MakerBot Print app. We also had to size up the model before directly printing the stl file. 
+
+2014 MU<sub>69</sub> image: CA06_deconvolved.png <br/>
+CREDIT: NASA/John Hopkins University Applied Physics Laboratory/Southwest Research Institute - [https://solarsystem.nasa.gov/resources/2254/kuiper-belt-object-2014-mu69/](https://solarsystem.nasa.gov/resources/2254/kuiper-belt-object-2014-mu69/)
 
 2014 MU<sub>69</sub> 3D model: reworked_ultima.stl <br/>
 CREDIT: This is a reprocessed version of the original from Thingiverse, created by ULTIMATHULE - [https://www.thingiverse.com/thing:3351113](https://www.thingiverse.com/thing:3351113) <br/>
