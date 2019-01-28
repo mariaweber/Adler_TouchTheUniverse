@@ -37,17 +37,17 @@ Learn many more facts about asteroids from NASA [here](https://solarsystem.nasa.
 
 # What's in this repository?
 
-Bennu 3D model: 
-CREDIT: 
-NOTES: 
+Bennu 3D model: bennu.stl <br/>
+CREDIT: Found on Thingiverse, created by Knu - [https://www.thingiverse.com/thing:3263492](https://www.thingiverse.com/thing:3263492) <br/>
+NOTES: We loaded this stl file into MakerBot Print and had to drastically increase its scale before printing.
 
-'Oumuamua 3D model:
-CREDIT:
-NOTES:
+'Oumuamua 3D model: Omuamua3.stl <br/>
+CREDIT: Found on Thingiverse, created by orion928 - [https://www.thingiverse.com/thing:2695520](https://www.thingiverse.com/thing:2695520) <br/>
+NOTES: The original aspect ratio of the length to width of this object is 5:1. We changed the aspect ratio when printing it out to 10:1 in the MakerBot Print app. We also had to size up the model before directly printing the stl file. 
 
-2014 MU<sub>69</sub> 3D model:
-CREDIT:
-NOTES:
+2014 MU<sub>69</sub> 3D model: reworked_ultima.stl <br/>
+CREDIT: This is a reprocessed version of the original from Thingiverse, created by ULTIMATHULE - [https://www.thingiverse.com/thing:3351113](https://www.thingiverse.com/thing:3351113) <br/>
+NOTES: We attempted to load the original stl file from Thingiverse into the MakerBot Print app, but the file failed to load. We then found success by loading the original stl file (follow Thingiverse link above) into [Meshmixer](http://www.meshmixer.com/), scaling it up, then saving it and inserting it back into the MakerBot Print app. The stl file in this repository is the reprocessed version that can be insert into MakerBot Print.   
 
 Visualization of the Aquarius Project asteroid orbit: Aquarius_project_orbit.mp4 <br/>
 CREDIT: Maria Weber, Aaron Geller, Mark Hammergren
