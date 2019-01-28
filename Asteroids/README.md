@@ -8,13 +8,16 @@ We have highlighted a few unique asteroids here.
 
 # Bennu
 
-The asteroid Bennu, also known as 101955 Bennu or 1999 RQ36, orbits between Earth and Mars rather than in the main asteroid belt. Bennu is actually wider in the middle, taking on a roughly diamond shaped appearance. It has been suggested that its shape is due to a very rapid rotational period, spinning a complete revolution like a top every 4.3 hours. It's mean diameter is about 0.3 miles. Extremely detailed maps of Bennu show that it has boulders on its surface from a few meters in size up to 10-20 meters (32-66 ft).  
+The asteroid Bennu, also known as 101955 Bennu or 1999 RQ36, orbits between Earth and Mars rather than in the main asteroid belt. Bennu is actually wider in the middle, taking on a roughly diamond shaped appearance. It has been suggested that its shape is due to a very rapid rotational period, spinning a complete revolution like a top every 4.3 hours. It's mean diameter is about 0.3 miles. Extremely detailed maps of Bennu show that it has boulders on its surface from a few meters in diameter up to 10-20 meters (32-66 ft).  
 
 The asteriod Bennu is special because it was selected as the target for the [OSIRIS-REx](https://www.nasa.gov/osiris-rex) mission. This is a NASA mission to visit the near-Earth asteroid Bennu and return a sample back to Earth. The spacecraft launched in 2016, and reached Bennu in December 2018. It is currently orbiting Bennu while it surveys the asteroid for a place to land to retrieve a sample. It is expected that the mission will return the sample to Earth in 2023. 
 
-# Oumuamua
+# 'Oumuamua
+
+['Oumuamua](https://www.nasa.gov/feature/jpl/nasa-learns-more-about-interstellar-visitor-oumuamua) is an asteroid and the first known interstellar object to enter our solar system. It was first detected in 2017 by a telescope called Pan-STARRS located on Maui, Hawaii. The name is derived from the Hawaiian word meaning 'scout'. 'Oumuamua's excess speed and path through the solar system indicate that it cannot be captured by the Sun's gravity, and so must have originated from outside our solar system. This asteroid also has a very unusual shape, approximately 5 to 10 times longer than it is wide. It tumbles through space, at times end-over-end. As a result, its observed diameter changes over time due to this tumbling motion. Its greatest observed length was reported to be over 400 meters (1,300 ft). 
 
 # Ultima Thule
+
 
 
 
@@ -27,15 +30,11 @@ From the [footage of the meteorite](https://www.youtube.com/watch?v=ey5PA_Sn0n4&
 Explore an interactive version of the Aquarius Project asteroid's journey to Earth [here](https://ageller.github.io/Adler_AquariusProject/). 
 
 
-# Watch this Space!
-
-We have a lot more asteroid facts to share...check back soon!
-
-# Resources
+# Further Reading
 
 Learn many more facts about asteroids from NASA [here](https://solarsystem.nasa.gov/small-bodies/asteroids/in-depth/) and [here](https://www.nasa.gov/mission_pages/asteroids/overview/fastfacts.html).
 
 # What's in this repository?
 
-Visualization of the Aquarius Project meteroid orbit: Aquarius_project_orbit.mp4
+Visualization of the Aquarius Project asteroid orbit: Aquarius_project_orbit.mp4 <br/>
 CREDIT: Maria Weber, Aaron Geller, Mark Hammergren
