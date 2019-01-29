@@ -17,10 +17,12 @@ Find out more about how NASA's [NuSTAR telescope sees cosmic rays ejecting from 
 # What's in this repository?
 
 Homunculus nebula 3D model: Eta_Car_Homunculus_model.stl <br/>
-CREDIT: Steffen, Teodoro, Madura, Groh, Gull, Mehner, Corcoran, Damineli, Hamaguchi - [academic journal paper](https://academic.oup.com/mnras/article/442/4/3316/1351781) and [Github repository](https://github.com/nasa/NASA-3D-Resources/tree/master/3D%20Models/Eta%20Carinae%20Homunculus%20Nebula)
+CREDIT: Steffen, Teodoro, Madura, Groh, Gull, Mehner, Corcoran, Damineli, Hamaguchi - [academic journal paper](https://academic.oup.com/mnras/article/442/4/3316/1351781) and [Github repository](https://github.com/nasa/NASA-3D-Resources/tree/master/3D%20Models/Eta%20Carinae%20Homunculus%20Nebula) <br/>
+NOTES: We did have to scale up this model within MakerBot Print before printing.
 
 Eta Carinae stellar wind 3D model: Phase1p045HighMdotPrimaryWind.stl <br/>
 CREDIT: Thomas Madura/NASA - [academic journal paper](https://academic.oup.com/mnras/article/449/4/3780/1167282) and [Github repository](https://github.com/nasa/NASA-3D-Resources/tree/master/3D%20Models/Eta%20Carinae%20High%20Mass-Loss%20Rate%20Version)
 
 Image of the ejecta from Eta Carinae: etacar2_hst_big.jpg <br/>
-CREDIT: NASA, ESA, and the Hubble SM4 ERO Team - [https://www.jpl.nasa.gov/news/news.php?feature=7184](https://www.jpl.nasa.gov/news/news.php?feature=7184)
+CREDIT: NASA, ESA, and the Hubble SM4 ERO Team - [https://www.jpl.nasa.gov/news/news.php?feature=7184](https://www.jpl.nasa.gov/news/news.php?feature=7184) <br/>
+NOTES: You can also pull up this image using the [WorldWide Telescope](http://www.worldwidetelescope.org/webclient/). Simply search for 'Eta Carinae'. From there, you can zoom out to see the Carina Nebula, located in the constellation of Carina in the Southern hemisphere.   
