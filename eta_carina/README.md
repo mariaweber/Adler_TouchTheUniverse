@@ -6,16 +6,21 @@ During the time period between 1837-1855, Eta Carinae experienced an event refer
 
 The Homunculus Nebula is known for its unusual shape and structure. It consists of two lobes that take the shape of a dumbbell, with a length of around 1 light-year between the ends of each lobe. These lobes are actually thin shells of material (mostly hollow in the middle), with either polar holes or deep indentations at the end of each lobe. There are also spiral shaped 'trenches' at the end of each lobe, and a thin skirt of material near the middle of the nebula at the intersection between the two lobes. These features are seen well in composite ultraviolet and visible light images. The exact processes that led to the shape of the Homunculus Nebula are still being explored by scientists with the help of computer simulations.
 
-Stuff about the stellar wind.
+Many stars have something called a stellar wind, which is a stream of particles flowing outward from their surfaces. The two massive stars that make up Eta Carinae also have powerful stellar winds. These winds spiral around the stars and collide violently with each other producing shock waves. [Simulations of these winds](https://academic.oup.com/mnras/article/449/4/3780/1167282) have been converted into 3D printed models. In the 3D printed models of the stellar winds from Eta Carinae included here, the wind from Eta Carina A is the printed surface, while the wind from Eta Carina B is the cavity that remains.  
 
-# Learn more about Eta Carinae and the Homunculus Nebula       
+With 3D printing, scientists can now examine the results of their simulations and observations in the palm of their hands.    
 
-# Resources
+# Further Reading       
 
-Image of the ejecta from the Eta Carina system: [IMAGE](https://www.spacetelescope.org/images/potw1208a/) 
-CREDIT: ESA/Hubble & NASA
+Find out more about how NASA's [NuSTAR telescope sees cosmic rays ejecting from Eta Carinae](https://www.jpl.nasa.gov/news/news.php?feature=7184). [NuSTAR](https://www.nasa.gov/mission_pages/nustar/main/index.html) is a spaceborne telescope that observes light at X-ray wavelengths. osmic rays are high energy particles ejected from some of the most highly energetic objects in our universe. Learn how scientists determined the shape of the Homunculus Nebula, including the backside of the lobe that we cannot see in images, [here](https://www.nasa.gov/content/goddard/astronomers-bring-the-third-dimension-to-a-doomed-stars-outburst). 
 
 # What's in this repository?
 
-Image of the ejecta from Eta Carina: potw1208a.tif
+Homunculus nebula 3D model: Eta_Car_Homunculus_model.stl
+CREDIT: Steffen, Teodoro, Madura, Groh, Gull, Mehner, Corcoran, Damineli, Hamaguchi - [academic journal paper](https://academic.oup.com/mnras/article/442/4/3316/1351781) and [Github repository](https://github.com/nasa/NASA-3D-Resources/tree/master/3D%20Models/Eta%20Carinae%20Homunculus%20Nebula)
 
+Eta Carinae stellar wind 3D model: Phase1p045HighMdotPrimaryWind.stl
+CREDIT: Thomas Madura/NASA - [academic journal paper](https://academic.oup.com/mnras/article/449/4/3780/1167282) and [Github repository](https://github.com/nasa/NASA-3D-Resources/tree/master/3D%20Models/Eta%20Carinae%20High%20Mass-Loss%20Rate%20Version)
+
+Image of the ejecta from Eta Carinae: etacar2_hst_big.jpg
+CREDIT: NASA, ESA, and the Hubble SM4 ERO Team - [https://www.jpl.nasa.gov/news/news.php?feature=7184](https://www.jpl.nasa.gov/news/news.php?feature=7184)
