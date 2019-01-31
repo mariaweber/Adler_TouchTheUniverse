@@ -12,7 +12,7 @@ With 3D printing, scientists can now examine the results of their simulations an
 
 # Further Reading       
 
-Find out more about how NASA's [NuSTAR telescope sees cosmic rays ejecting from Eta Carinae](https://www.jpl.nasa.gov/news/news.php?feature=7184). [NuSTAR](https://www.nasa.gov/mission_pages/nustar/main/index.html) is a spaceborne telescope that observes light at X-ray wavelengths. osmic rays are high energy particles ejected from some of the most highly energetic objects in our universe. Learn how scientists determined the shape of the Homunculus Nebula, including the backside of the lobe that we cannot see in images, [here](https://www.nasa.gov/content/goddard/astronomers-bring-the-third-dimension-to-a-doomed-stars-outburst). 
+Find out more about how NASA's [NuSTAR telescope sees cosmic rays ejecting from Eta Carinae](https://www.jpl.nasa.gov/news/news.php?feature=7184). [NuSTAR](https://www.nasa.gov/mission_pages/nustar/main/index.html) is a spaceborne telescope that observes light at X-ray wavelengths. Cosmic rays are high energy particles ejected from some of the most highly energetic objects in our universe. Learn how scientists determined the shape of the Homunculus Nebula, including the backside of the lobe that we cannot see in images, [here](https://www.nasa.gov/content/goddard/astronomers-bring-the-third-dimension-to-a-doomed-stars-outburst). 
 
 # What's in this repository?
 
@@ -25,4 +25,4 @@ CREDIT: Thomas Madura/NASA - [Academic journal paper](https://academic.oup.com/m
 
 Image of the ejecta from Eta Carinae: etacar2_hst_big.jpg <br/>
 CREDIT: NASA, ESA, and the Hubble SM4 ERO Team - [https://www.jpl.nasa.gov/news/news.php?feature=7184](https://www.jpl.nasa.gov/news/news.php?feature=7184) <br/>
-NOTES: You can also pull up this image using the [WorldWide Telescope](http://www.worldwidetelescope.org/webclient/). Simply search for 'Eta Carinae'. From there, you can zoom out to see the Carina Nebula, located in the constellation of Carina in the Southern hemisphere.   
+NOTES: You can pull up this image using the [WorldWide Telescope](http://www.worldwidetelescope.org/webclient/). Simply search for 'Eta Carinae'. From there, you can zoom out to see the Carina Nebula, located in the constellation of Carina in the Southern hemisphere. A similar photo as the one in this repository can be found on AstroPix [here](https://astropix.ipac.caltech.edu/image/esahubble/potw1208a).
