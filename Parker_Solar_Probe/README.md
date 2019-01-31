@@ -19,16 +19,16 @@ Keep up to date with the latest Parker Solar Probe news [here](http://parkersola
 
 # What's in this repository?
 
-Parker Solar Probe 3D model: Parker_Solar_Probe_nosupport.stl
+Parker Solar Probe 3D model: Parker_Solar_Probe_nosupport.stl <br/>
 CREDIT: [Elizabeth Koprucki](https://polsky.uchicago.edu/meet-the-team/elizabeth-koprucki/), The University of Chicago Polsky Center & Adler Planetarium volunteer
 
 Image of Parker Probe 3D model: ParkerProbeSnap.jpg
 
-Visualization of the Parker Probe approaching the Sun: SwingbySunCloseUp.mp4
+Visualization of the Parker Probe approaching the Sun: SwingbySunCloseUp.mp4 <br/>
 CREDIT: NASA/Johns Hopkins APL - [http://parkersolarprobe.jhuapl.edu/Multimedia/Animations.php#Animations](http://parkersolarprobe.jhuapl.edu/Multimedia/Animations.php#Animations) 
 
-Visualization of the Parker Probe's Venus flyby: VenusFlyby-FirstPass-4K.mp4
+Visualization of the Parker Probe's Venus flyby: VenusFlyby-FirstPass-4K.mp4 <br/>
 CREDIT: NASA/John Hopkins APL/Steve Gribben - [http://parkersolarprobe.jhuapl.edu/Multimedia/Animations.php#Animations](http://parkersolarprobe.jhuapl.edu/Multimedia/Animations.php#Animations)
 
-Image of coronal streamer taken by Parker Probe: wispr-big.jpg
+Image of coronal streamer taken by Parker Probe: wispr-big.jpg <br/>
 CREDIT: NASA/Naval Research Laboratory/Parker Solar Probe - [https://www.nasa.gov/feature/goddard/2018/preparing-for-discovery-with-nasas-parker-solar-probe](https://www.nasa.gov/feature/goddard/2018/preparing-for-discovery-with-nasas-parker-solar-probe)
