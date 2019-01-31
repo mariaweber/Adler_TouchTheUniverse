@@ -21,6 +21,11 @@ Above are folders for various 'Modules', where we pair a set of visualizations w
 
 We are only just starting our 'Touch the Universe' journey. Check back on our GitHub repository and webpage for periodic updates!
 
+# About our 3D Printer
+
+All of the 3D printed objects we have utilized for Touch the Universe have been printed at the Adler Planetarium. Most of them were printed using
+a [MakerBot Replicator+](https://www.makerbot.com/3d-printers/replicator/) and the free online [MakerBot Print software](https://www.makerbot.com/3d-printers/apps/makerbot-print/download/). 
+
 # Acknowledgements
 
 This project has been made possible by an [award](http://www.astc.org/astc-news/congratulating-nasas-universe-of-learning-mini-fund-recipients/) to the [Adler Planetarium](https://www.adlerplanetarium.org/#wUjDlx4DEz33h1tR.97) from the [Association of Science-Technology Centers](http://www.astc.org/about-astc/) (ASTC) on behalf of NASA's [Universe of Learning](https://www.universe-of-learning.org/) (UoL).
