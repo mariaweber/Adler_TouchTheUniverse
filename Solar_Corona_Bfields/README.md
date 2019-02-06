@@ -36,7 +36,7 @@ CREDIT: Adam Finley, University of Exeter
 Visualization of the predicted solar corona during the August 21, 2017 total solar eclipse: tricol_Full_log10qavg_101_rot.mov <br/>
 CREDIT: Predicitive Science Inc - [http://www.predsci.com/corona/aug2017eclipse/home.php](http://www.predsci.com/corona/aug2017eclipse/home.php)
 
-Visualization of the solar magnetic field changing over the course of four years: PFSSbasicViewB_inertial_1080p30.mpr <br/>
+Visualization of the solar magnetic field changing over the course of four years: PFSSbasicViewB_inertial_1080p30.mp4 <br/>
 CREDIT: NASA's Scientific Visualization Studio/Tom Bridgman (GST)/Karen Fox (ASI)/Marc L. DeRosa (LMSAL)/Sarah Frazier (ADNET Systems Inc.) - [https://svs.gsfc.nasa.gov/4391](https://svs.gsfc.nasa.gov/4391) <br/>
 NOTES: White magnetic field lines are considered 'closed', 'open' magnetic field lines are represented in green as positive magnetic polarity and purple as negative magnetic polarity. 
 
