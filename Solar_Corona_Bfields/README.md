@@ -14,7 +14,7 @@ A represenation of a simple magnetic field structure during solar minimum is dep
 
 The August 21, 2017 total solar eclipse  visible across the United States occured during solar minimum. As such, the shape of the corona seen by more than 200 million Americans was quite simple, with mostly low latitude coronal streamers. During a period of stronger magnetic activity, the total solar eclipse visible from Australia on November 13, 2012 showed a [corona with streamers appearing at all latitudes](http://www.zam.fme.vutbr.cz/~druck/Eclipse/Ecl2012a/0-info.htm), even the solar poles. This one was truly crown-like, after all, corona is Latin for 'crown'.     
 
-Our Sun has a rotation period of about one month. That's pretty slow compared to most other solar-like stars in our galaxy. When our Sun was younger, it also rotated faster. As stars rotate, their large-scale magnetic field twists into a spiral. This effect is very noticeable in the 'rapid rotator' model of the 3D printed stellar magnetic field.
+Our Sun has a rotation period of about one month. That's pretty slow compared to most other solar-like stars in our galaxy. When our Sun was younger, it also rotated faster. As stars rotate, their large-scale magnetic field twists into a spiral. This effect is very noticeable in the 'rapid rotator' model of the 3D printed stellar magnetic field. In this model, this star is spinning 10 times more rapidly than the Sun. If you look at the model from the top, you can clearly see the pinwheel shape of the magnetic field due to rotation. 
 
 # Further Reading
 
@@ -24,11 +24,11 @@ Also check out our [module on the Parker Solar Probe](https://github.com/mariawe
 
 # What's in this repository?
 
-Stellar magnetic field model 'slow rotator': <br/>
+Stellar magnetic field model 'slow rotator': SlowRotator.stl <br/>
 CREDIT: Adam Finley, University of Exeter <br/>
 NOTES: After many iterations, we found the best way to print this object is to print it with 100% infill density, include supports, and change the support angle to 30 degrees. Previously, parts of the print were collapsing because they were not supported. Decreasing the support angle adds support to parts printed at a shallower angle (a value of zero puts supports everywhere, a value of 90 includes no supports). This print also required very careful removal of the supports, and is quite fragile. If you need to reattach parts that have fallen off, we suggest a two-part epoxy. Most superglues do not bond to 3D printer material. A 10 cm tall version of this object (enlarged 500%) took approximately 5 hours print. 
 
-Stellar magnetic field model 'fast rotator': <br/>
+Stellar magnetic field model 'fast rotator': FastRotator.stl <br/>
 CREDIT: Adam Finley, University of Exeter
 
 Visualization of the predicted solar corona during the August 21, 2017 total solar eclipse: tricol_Full_log10qavg_101_rot.mov <br/>
