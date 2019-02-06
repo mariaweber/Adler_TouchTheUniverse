@@ -1,6 +1,6 @@
 # Solar Magnetic Fields - The Solar Cycle, Corona, and Wind
 
-Our Sun has an internal magnetic furnace. It generates all of this magnetism deep in its interior through motion of the hot, churning, conductive gas of which it is made. Bundles of this magnetism then rise to the Sun's surface, forming dark regions of intense magnetic fields called [sunspots](https://en.wikipedia.org/wiki/Sunspot). Typical sunpspots are about the size of Earth, but some can be [as large as Jupiter](http://www.thesuntoday.org/solar-observations/ar12192-the-largest-sunspot-group-of-solar-cycle-24/)! Often these magnetic ropes continue to rise above the sunspot regions and are visible as giant arches of magnetism attached to the Sun's surface. Hot gas from the Sun's atmosphere is attracted to these loops of magnetism, mapping out glowing magnetic arches that extend thousands of kilometres above its surface.
+Our Sun has an internal magnetic furnace. It generates all of this magnetism deep in its interior through motion of the hot, churning, conductive gas of which it is made. Bundles of this magnetism then rise to the Sun's surface, forming dark regions of intense magnetic fields called [sunspots](https://en.wikipedia.org/wiki/Sunspot). Typical sunpspots are about the size of Earth, but some can be [as large as Jupiter](http://www.thesuntoday.org/solar-observations/ar12192-the-largest-sunspot-group-of-solar-cycle-24/)! Often these magnetic ropes continue to rise above the sunspot regions and are visible as giant arches of magnetism attached to the Sun's surface. Hot gas from the Sun's atmosphere is attracted to these loops of magnetism, mapping out [glowing magnetic arches](https://www.nasa.gov/content/coronal-loops-in-an-active-region-of-the-sun) that extend thousands of kilometers above its surface.
 
 The process that generates the Sun's magnetism is called a dynamo. Dynamos convert mechanical energy (i.e. rotation and motion of the Sun's hot gas) into magnetic energy. Much like the Earth's magnetic field, the Sun's global (i.e. overall) magnetic field is at times similar to that of a bar magnet. We refer to this as a dipolar magnetic field, having a North and South magnetic pole at the North and South geographical poles. Approximately every 11 years, the Sun flips the orientation of its magnetic poles. 
 
@@ -25,7 +25,7 @@ Also check out our [module on the Parker Solar Probe](https://github.com/mariawe
 # What's in this repository?
 
 Stellar magnetic field model 'slow rotator': <br/>
-CREDIT: Adam Finley, University of Exeter
+CREDIT: Adam Finley, University of Exeter <br/>
 NOTES: After many iterations, we found the best way to print this object is to print it with 100% infill density, include supports, and change the support angle to 30 degrees. Previously, parts of the print were collapsing because they were not supported. Decreasing the support angle adds support to parts printed at a shallower angle (a value of zero puts supports everywhere, a value of 90 includes no supports). This print also required very careful removal of the supports, and is quite fragile. If you need to reattach parts that have fallen off, we suggest a two-part epoxy. Most superglues do not bond to 3D printer material. A 10 cm tall version of this object (enlarged 500%) took approximately 5 hours print. 
 
 Stellar magnetic field model 'fast rotator': <br/>
