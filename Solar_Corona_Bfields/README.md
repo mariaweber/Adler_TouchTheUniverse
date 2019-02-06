@@ -30,7 +30,7 @@ Stellar magnetic field model 'slow rotator': SlowRotator.stl <br/>
 CREDIT: Adam Finley, University of Exeter <br/>
 NOTES: After many iterations, we found the best way to print this object is to print it with 100% infill density, include supports, and change the support angle to 30 degrees. Previously, parts of the print were collapsing because they were not supported. Decreasing the support angle adds support to parts printed at a shallower angle (a value of zero puts supports everywhere, a value of 90 includes no supports). This print also required very careful removal of the supports, and is quite fragile. If you need to reattach parts that have fallen off, we suggest a two-part epoxy. Most superglues do not bond to 3D printer material. A 10 cm tall version of this object (enlarged 500%) took approximately 5 hours print. 
 
-Stellar magnetic field model 'fast rotator': FastRotator.stl <br/>
+Stellar magnetic field model 'fast rotator': RapidRotator.stl <br/>
 CREDIT: Adam Finley, University of Exeter
 
 Visualization of the predicted solar corona during the August 21, 2017 total solar eclipse: tricol_Full_log10qavg_101_rot.mov <br/>
