@@ -34,7 +34,8 @@ Stellar magnetic field model 'fast rotator': RapidRotator.stl <br/>
 CREDIT: Adam Finley, University of Exeter <br/>
 NOTES: As with the slow rotator, the best way to print this object is with 100% infill density, include supports, and a support angle of 30 degrees. Use care when removing the supports. A 10 cm tall version (enlarged 500%) took approximately 9 hours to print.
 
-Picture of 3D magnetic field models after supports removed: BfieldsSnap.jpg
+Picture of 3D magnetic field models after supports removed: BfieldsSnap.jpg <br/>
+CREDIT: Maria A. Weber, Adler Planetarium & University of Chicago
 
 Visualization of the predicted solar corona during the August 21, 2017 total solar eclipse: tricol_Full_log10qavg_101_rot.mov <br/>
 CREDIT: Predicitive Science Inc - [http://www.predsci.com/corona/aug2017eclipse/home.php](http://www.predsci.com/corona/aug2017eclipse/home.php)
