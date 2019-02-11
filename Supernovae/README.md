@@ -28,6 +28,9 @@ Cassiopeia A 3D model: CasA.stl <br/>
 CREDIT: A Chandra X-Ray Observatory/NASA Universe of Learning resource - [http://chandra.cfa.harvard.edu/deadstar/deadstar.html](http://chandra.cfa.harvard.edu/deadstar/deadstar.html) <br/>
 NOTES: We scaled this model up to 800 times its original size. We printed it with supports and bridges and a 50 percent infill. It took about 18 hours to print, and about one hour to remove the supports afterward. Take care when removing the supports, especially near the jets. 
 
+Picture of Cassiopeia A 3D printed model before and after support removal: CasA_beforeafter.jpg <br/>
+Credit: Maria A. Weber, Adler Planetarium & University of Chicago
+
 Image of Cassiopeia A: chandra_555_1280.jpg <br/>
 CREDIT: NASA/CXC/SAO - AstroPix [https://astropix.ipac.caltech.edu/image/chandra/555](https://astropix.ipac.caltech.edu/image/chandra/555)
 
