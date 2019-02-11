@@ -24,11 +24,19 @@ Learn about the simulation created to study the evolving structure of SN 1987A's
 
 # What's in this repository?
 
+Cassiopeia A 3D model: CasA.stl <br/>
+CREDIT: A Chandra X-Ray Observatory/NASA Universe of Learning resource - [http://chandra.cfa.harvard.edu/deadstar/deadstar.html](http://chandra.cfa.harvard.edu/deadstar/deadstar.html) <br/>
+NOTES: We scaled this model up to 800 times its original size. We printed it with supports and bridges and a 50 percent infill. It took about 18 hours to print, and about one hour to remove the supports afterward. Take care when removing the supports, especially near the jets. 
+
 Image of Cassiopeia A: chandra_555_1280.jpg <br/>
 CREDIT: NASA/CXC/SAO - AstroPix [https://astropix.ipac.caltech.edu/image/chandra/555](https://astropix.ipac.caltech.edu/image/chandra/555)
 
 Visualization of Cassiopeia A from the central neutron star to the surrounding ejected material: casa2_3d_lg_web.mov <br/>
 CREDIT: NASA/CXC/D. Berry - [http://chandra.harvard.edu/photo/2009/casa2/animations.html](http://chandra.harvard.edu/photo/2009/casa2/animations.html)
+
+SN 1987A 3D model of the inner ring structure: SN1987A_COMBINED_pareddown.stl <br/>
+CREDIT: A Chandra X-Ray Observatory/NASA Universe of Learning resource created from visualizations by S. Orlando - [http://chandra.cfa.harvard.edu/deadstar/sn1987a.html](http://chandra.cfa.harvard.edu/deadstar/sn1987a.html) <br/>
+NOTES: We scaled this model up to 20,000 times its original size. We printed it with supports, bridges, and a 100 percent infill. It took about 12 hours to print, and about 30 minutes to remove the supports afterward. 
 
 Image of SN 1987A showing three ring structure: esahubble_opo9719b_1280.jpg <br/>
 CREDIT: George Sonneborn (Goddard Space Flight Center), Jason Pun (NOAO), the STIS Instrument Definition Team, and NASA/ESA - AstroPix [https://astropix.ipac.caltech.edu/image/esahubble/opo9719b](https://astropix.ipac.caltech.edu/image/esahubble/opo9719b)
