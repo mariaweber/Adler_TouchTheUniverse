@@ -22,7 +22,7 @@ Keep up to date with the latest Parker Solar Probe news [here](http://parkersola
 Parker Solar Probe 3D model: Parker_Solar_Probe_nosupport.stl <br/>
 CREDIT: [Elizabeth Koprucki](https://polsky.uchicago.edu/meet-the-team/elizabeth-koprucki/), The University of Chicago Polsky Center & Adler Planetarium volunteer
 
-Image of Parker Probe 3D model: ParkerProbeSnap.jpg
+Picture of Parker Probe 3D model: ParkerProbeSnap.jpg
 
 Visualization of the Parker Probe approaching the Sun: SwingbySunCloseUp.mp4 <br/>
 CREDIT: NASA/Johns Hopkins APL - [http://parkersolarprobe.jhuapl.edu/Multimedia/Animations.php#Animations](http://parkersolarprobe.jhuapl.edu/Multimedia/Animations.php#Animations) 
