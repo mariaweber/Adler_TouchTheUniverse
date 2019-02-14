@@ -10,7 +10,7 @@ We have highlighted a few unique asteroids here.
 
 The asteroid Bennu, also known as 101955 Bennu or 1999 RQ36, orbits between Earth and Mars rather than in the main asteroid belt. Bennu is actually wider in the middle, taking on a roughly diamond shaped appearance. It has been suggested that its shape is due to a very rapid rotational period, spinning a complete revolution like a top every 4.3 hours. It's mean diameter is about 0.3 miles. Extremely detailed maps of Bennu show that it has boulders on its surface from a few meters in diameter up to 10-20 meters (32-66 ft).  
 
-The asteriod Bennu is special because it was selected as the target for the [OSIRIS-REx](https://www.nasa.gov/osiris-rex) mission. This is a NASA mission to visit the near-Earth asteroid Bennu and return a sample back to Earth. The spacecraft launched in 2016, and reached Bennu in December 2018. It is currently orbiting Bennu while it surveys the asteroid for a place to land to retrieve a sample. It is expected that the mission will return the sample to Earth in 2023. 
+The asteroid Bennu is special because it was selected as the target for the [OSIRIS-REx](https://www.nasa.gov/osiris-rex) mission. This is a NASA mission to visit the near-Earth asteroid Bennu and return a sample back to Earth. The spacecraft launched in 2016, and reached Bennu in December 2018. It is currently orbiting Bennu while it surveys the asteroid for a place to land to retrieve a sample. It is expected that the mission will return the sample to Earth in 2023. 
 
 # 'Oumuamua
 
@@ -20,7 +20,9 @@ The asteriod Bennu is special because it was selected as the target for the [OSI
 
 2014 MU<sub>69</sub> is located in the Kuiper Belt. Sometimes referred to as trans-Neptunian objects, bodies in the Kuiper Belt can be found beyond the orbit of Neptune. It has been nicknamed Ultima Thule, which has both Latin and Greek origins. Its name references medieval literature, where [Ultima Thule represented places beyond known borders](https://en.wikipedia.org/wiki/Thule). 
 
-On January 1, 2019, the NASA spacecraft [New Horizons](https://www.nasa.gov/mission_pages/newhorizons/main/index.html) flew by MU<sub>69</sub> and took the best images of this object to date. It is a contact binary asteriod approximately 20 miles in diameter. Both lobes are spheroidal in shape, with the larger approximately 12 miles in diameter and the smaller about 8 miles in diameter. Both lobes have multiple indentations or pits, possibly caused by impacts or the venting of internal material. It is hypothesized that MU<sub>69</sub> was formed as the two lobes slowly spiraled closer and closer together until they touched and ultimately fused.         
+On January 1, 2019, the NASA spacecraft [New Horizons](https://www.nasa.gov/mission_pages/newhorizons/main/index.html) flew by MU<sub>69</sub> and took the best images of this object to date. It is a contact binary asteroid approximately 20 miles in diameter. Both lobes are spheroidal in shape, with the larger approximately 12 miles in diameter and the smaller about 8 miles in diameter. Both lobes have multiple indentations or pits, possibly caused by impacts or the venting of internal material. It is hypothesized that MU<sub>69</sub> was formed as the two lobes slowly spiraled closer and closer together until they touched and ultimately fused.         
+
+But now [new images](https://www.nasa.gov/feature/new-horizons-evocative-farewell-glance-at-ultima-thule) of 2014 MU<sub>69 suggest that the two lobes are not spherical after all, but rather the larger is flat like a pancake and the smaller is more like a walnut in shape. This new perspective was noted as the spacecraft took its departing views of the object, zipping past at over 31,000 miles per hour. More analysis is required to truly understand the shape of this unique asteroid.  
 
 # The Aquarius Project
 
