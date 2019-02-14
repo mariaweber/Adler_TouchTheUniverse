@@ -22,7 +22,7 @@ The asteroid Bennu is special because it was selected as the target for the [OSI
 
 On January 1, 2019, the NASA spacecraft [New Horizons](https://www.nasa.gov/mission_pages/newhorizons/main/index.html) flew by MU<sub>69</sub> and took the best images of this object to date. It is a contact binary asteroid approximately 20 miles in diameter. Both lobes are spheroidal in shape, with the larger approximately 12 miles in diameter and the smaller about 8 miles in diameter. Both lobes have multiple indentations or pits, possibly caused by impacts or the venting of internal material. It is hypothesized that MU<sub>69</sub> was formed as the two lobes slowly spiraled closer and closer together until they touched and ultimately fused.         
 
-But now [new images](https://www.nasa.gov/feature/new-horizons-evocative-farewell-glance-at-ultima-thule) of 2014 MU<sub>69 suggest that the two lobes are not spherical after all, but rather the larger is flat like a pancake and the smaller is more like a walnut in shape. This new perspective was noted as the spacecraft took its departing views of the object, zipping past at over 31,000 miles per hour. More analysis is required to truly understand the shape of this unique asteroid.  
+But now [new images](https://www.nasa.gov/feature/new-horizons-evocative-farewell-glance-at-ultima-thule) of 2014 MU<sub>69</sub> suggest that the two lobes are not spherical after all, but rather the larger is flat like a pancake and the smaller is more like a walnut in shape. This new perspective was noted as the spacecraft took its departing views of the object, zipping past at over 31,000 miles per hour. More analysis is required to truly understand the shape of this unique asteroid.  
 
 # The Aquarius Project
 
