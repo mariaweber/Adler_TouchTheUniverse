@@ -38,7 +38,7 @@ Picture of 3D magnetic field models after supports removed: BfieldsSnap.jpg <br/
 CREDIT: Maria A. Weber, Adler Planetarium & University of Chicago
 
 Annotated picture of solar 3D magnetic field model next to a picture of the solar corona during solar minimum: annotated_Bfield_model.jpg <br/>
-CREDIT: Maria A. Weber, solar corona image credit goes to Wendy Carlos and Espenak
+CREDIT: Maria A. Weber, solar corona image credit goes to Wendy Carlos and Fred Espenak
 
 Visualization of the predicted solar corona during the August 21, 2017 total solar eclipse: tricol_Full_log10qavg_101_rot.mov <br/>
 CREDIT: Predicitive Science Inc - [http://www.predsci.com/corona/aug2017eclipse/home.php](http://www.predsci.com/corona/aug2017eclipse/home.php)
