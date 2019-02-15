@@ -62,3 +62,6 @@ NOTES: We attempted to load the original stl file from Thingiverse into the Make
 
 Visualization of the Aquarius Project asteroid orbit: Aquarius_project_orbit.mp4 <br/>
 CREDIT: Maria Weber, Aaron Geller, Mark Hammergren
+
+Picture of 2014 MU<sub>69</sub>, Bennu, and 'Oumuamua 3D printed models: AsteroidsSnap.jpg <br/>
+CREDIT: Maria A. Weber, Adler Planetarium & University of Chicago
