@@ -39,7 +39,7 @@ CREDIT: NASA/CXC/D. Berry - [http://chandra.harvard.edu/photo/2009/casa2/animati
 
 SN 1987A 3D model of the inner ring structure: SN1987A_COMBINED_pareddown.stl <br/>
 CREDIT: A Chandra X-Ray Observatory/NASA Universe of Learning resource created from visualizations by S. Orlando - [http://chandra.cfa.harvard.edu/deadstar/sn1987a.html](http://chandra.cfa.harvard.edu/deadstar/sn1987a.html) <br/>
-NOTES: We scaled this model up to 20,000 times its original size. We printed it with supports, bridges, and a 100 percent infill. It took about 12 hours to print, and about 30 minutes to remove the supports afterward. 
+NOTES: We scaled this model up to 20,000 times its original size. We printed it with supports, bridges, and a 100 percent infill. It took about 12 hours to print, and about 1.25 hours to remove the supports afterward. There are a lot of fragile bits, so some care is needed. 
 
 Image of SN 1987A showing three ring structure: esahubble_opo9719b_1280.jpg <br/>
 CREDIT: George Sonneborn (Goddard Space Flight Center), Jason Pun (NOAO), the STIS Instrument Definition Team, and NASA/ESA - AstroPix [https://astropix.ipac.caltech.edu/image/esahubble/opo9719b](https://astropix.ipac.caltech.edu/image/esahubble/opo9719b)
